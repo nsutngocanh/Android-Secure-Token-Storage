@@ -1,0 +1,6 @@
+com.kt.securcetokenstorage.test.SecurceTokenStorage-androidTest-0 C:\Users\ADMIN\AndroidStudioProjects\AndroidSecureTokenStorage\SecurceTokenStorage\build\generated\res\resValues\androidTest\debug
+com.kt.securcetokenstorage.test.SecurceTokenStorage-androidTest-1 C:\Users\ADMIN\AndroidStudioProjects\AndroidSecureTokenStorage\SecurceTokenStorage\build\generated\res\rs\androidTest\debug
+com.kt.securcetokenstorage.test.SecurceTokenStorage-mergeDebugAndroidTestResources-2 C:\Users\ADMIN\AndroidStudioProjects\AndroidSecureTokenStorage\SecurceTokenStorage\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.kt.securcetokenstorage.test.SecurceTokenStorage-mergeDebugAndroidTestResources-3 C:\Users\ADMIN\AndroidStudioProjects\AndroidSecureTokenStorage\SecurceTokenStorage\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.kt.securcetokenstorage.test.SecurceTokenStorage-merged_res-4 C:\Users\ADMIN\AndroidStudioProjects\AndroidSecureTokenStorage\SecurceTokenStorage\build\intermediates\merged_res\debugAndroidTest
+com.kt.securcetokenstorage.test.SecurceTokenStorage-packaged_res-5 C:\Users\ADMIN\AndroidStudioProjects\AndroidSecureTokenStorage\SecurceTokenStorage\build\intermediates\packaged_res\debug
